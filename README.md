@@ -11,6 +11,21 @@
 > 작품의 특징
 - 유튜브 영상을 혼자서 보고 끝나는 것이 아니라, 많은 사람들과 소통을 하며 유튜브를 즐길 수 있다.
 
+## 4월 27
+> 웹화면 디자인 바꾸기
+- behance사이트를 참고하여 디자인, 구성을 연구하여 사이트 디자인 변경
+- 언스플래쉬 이미지 사이트에서 캐치브 네임 관련 이미지 가져오기
+- 앱 화면 가져와서 캐치브에서 중요하게 생각하는 기능에 대해 작성
+![dnpqghkas](https://user-images.githubusercontent.com/79887405/165466784-d933dc87-d9e7-4649-9119-a966e392763a.PNG)
+
+> 앱 설정 페이지
+- 앱 설정 계정, 알림 
+![doqtjfwjdvpdlwl](https://user-images.githubusercontent.com/79887405/165467847-f07a2cae-c424-422e-b254-95719481ab3a.PNG)
+
+> 앱 프로필 화면 상세 페이지
+![dpqvmfhvlf](https://user-images.githubusercontent.com/79887405/165467909-41c3c5c8-fbfc-47fc-afeb-7e1e91b575c5.PNG)
+
+
 ## 4월 13일
 > 마이페이지 화면 수정하기
 - 마이페이지 썸네일 관련 사진 넣기
