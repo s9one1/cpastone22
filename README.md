@@ -21,9 +21,9 @@
 3. 포토샵으로 B4(1032px 729px)크기의 캔버스를 만든 후 스케치한것을 기반으로 판넬을 만들어본다.
 4. 판넬에는 color, naming, font, 디자인 설명, 개요, 스케치, 플로우차트, 로고, app화면 등의 내용을 넣는다.
 
-<img src="https://user-images.githubusercontent.com/79887405/168301615-21f6133f-d00a-4aaf-a946-20d3da4ab9f4.jpg"  width="516" height="364.5"/>
+<img src="https://user-images.githubusercontent.com/79887405/168301615-21f6133f-d00a-4aaf-a946-20d3da4ab9f4.jpg"  width="364.5" height="516"/>
 
-<img src="https://user-images.githubusercontent.com/79887405/168301630-665cd52f-23a5-4883-9174-9a8bd355cfc2.jpg"  width="516" height="364.5"/>
+<img src="https://user-images.githubusercontent.com/79887405/168301630-665cd52f-23a5-4883-9174-9a8bd355cfc2.jpg"  width="364.5" height="516"/>
 
 ## 5월 4일
 > 랜딩페이지 디자인
