@@ -23,6 +23,8 @@
 
 ![KakaoTalk_20220511_162308147](https://user-images.githubusercontent.com/79887405/168301615-21f6133f-d00a-4aaf-a946-20d3da4ab9f4.jpg)
 
+<img src="https://user-images.githubusercontent.com/79887405/168301615-21f6133f-d00a-4aaf-a946-20d3da4ab9f4.jpg"  width="200" height="400"/>
+
 ![KakaoTalk_20220511_164004517](https://user-images.githubusercontent.com/79887405/168301630-665cd52f-23a5-4883-9174-9a8bd355cfc2.jpg)
 
 ## 5월 4일
