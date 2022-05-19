@@ -17,7 +17,7 @@
 1. 학교에 전시되어 있는 것과 인터넷에서 판넬에 필요한 내용정하기
 2. 자료를 보며 포토샵으로 1차 디자인 만들기
 
-<img src="https://user-images.githubusercontent.com/79887405/169337300-3d270133-2852-41f4-b938-82f44a0d6377.png"  width="228" height="530"/>
+<img src="https://user-images.githubusercontent.com/79887405/169337300-3d270133-2852-41f4-b938-82f44a0d6377.png"  width="530" height="228"/>
 
 > 판넬 수정 사항
 - 내용 : 아이콘과 버튼 제거, 캐치브에 대한 질문,내용 변경
