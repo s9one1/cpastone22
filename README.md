@@ -114,26 +114,30 @@
 > 플로우 차트 만들기
 - 사용자의 입장에서 캐치브 앱의 흐름 상태를 파악하기 위해 플로우 차트를 만들었다.
 
-![플로우차트](https://user-images.githubusercontent.com/79887405/162478873-c7530d1c-397e-43d1-8443-4e3665d39c15.png)
+<img src="https://user-images.githubusercontent.com/79887405/162478873-c7530d1c-397e-43d1-8443-4e3665d39c15.png"  width="30%" height="30%"/>
 
 > 웹 화면 디자인
 - 웹의 폰트 사이즈를 바꾸고, 어떤 color를 중심으로 웹을 꾸밀것인지 구상해보았다.
-![화면 캡처 2022-04-09 010100](https://user-images.githubusercontent.com/79887405/162479529-eaa8d281-853b-463b-9835-7f219dc49ced.png)
+
+<img src="https://user-images.githubusercontent.com/79887405/162479529-eaa8d281-853b-463b-9835-7f219dc49ced.png"  width="30%" height="30%"/>
 
 > 앱 화면 디자인 아이디어
 1. 카테고리: 카테고리의 넓이를 전체로 보이게 하고, 글자 앞에 이모티콘 등을 삽입하고, 다음 화면에서 세부적으로 선택할 수 있게 하고, 선택이 되었을 시 그와 관련된
 사람들의 글을 볼 수 있게 한다.
-![화면 캡처 2022-04-09 010151](https://user-images.githubusercontent.com/79887405/162480237-78797b13-e446-409c-84c6-44223c1e61f9.png)
+
+<img src="https://user-images.githubusercontent.com/79887405/162480237-78797b13-e446-409c-84c6-44223c1e61f9.png"  width="30%" height="30%"/>
 
 2. 캘린더: 캘린더의 날짜를 눌렀을 시 작은 화면으로 자신이 그 날 올린 글이 뜨게하고, 글쓰기 아이콘을 눌렀을 시 수정을 할 수 있게한다.
-![화면 캡처 2022-04-09 010731](https://user-images.githubusercontent.com/79887405/162480515-73a06fe7-748d-4bd1-8b04-19c5a6dd25ed.png)
+
+<img src="https://user-images.githubusercontent.com/79887405/162480515-73a06fe7-748d-4bd1-8b04-19c5a6dd25ed.png"  width="30%" height="30%"/>
 
 > 마이페이지 앱 화면 만들기
 - 마이페이지의 화면, 자신이 저장한 글을 보는 화면, 프로필을 수정하는 화면을 만들었다.
 1. 마이페이지 화면: 프로필 사진, 팔로우와 팔로잉 표시, 자신이 좋아하는 유튜브 추천 부분, 자신이 저장한 글을 폴더로 저장되어있는 부분을 보이게 한다.
 2. 저장한 글 보기: 자신이 저장한 글의 유튜브 썸네일로 볼 수 있게 한다.
 3. 프로필 수정: 프로필 사진, 유튜브 추천 등을 바꿀 수 있게 한다.
-![화면 캡처 2022-04-09 010847](https://user-images.githubusercontent.com/79887405/162481242-99073bc3-26e3-4aa8-9d9c-c6d656eb6b46.png)
+
+<img src="https://user-images.githubusercontent.com/79887405/162481242-99073bc3-26e3-4aa8-9d9c-c6d656eb6b46.png"  width="30%" height="30%"/>
 
 > 다음 주 할일
 - 마이페이지화면 완성하기, 웹 디자인, color 더 생각해보기, 앱 화면 아이디어
@@ -144,8 +148,10 @@
 2. 피그마에서 웹화면을 만든다.
 - 큰 글씨 50px, 40px, 32px 작은글씨 22px
 - 내용들은 1108px 안에 들어오도록 하였다.
-![KakaoTalk_20220402_010039177_01](https://user-images.githubusercontent.com/79887405/161300136-b87a5e3c-8add-4420-be9e-3e8342977027.jpg)
-![KakaoTalk_20220402_010039177](https://user-images.githubusercontent.com/79887405/161300142-55fc401e-2254-487d-ac7b-857c7144f249.jpg)
+
+<img src="https://user-images.githubusercontent.com/79887405/161300136-b87a5e3c-8add-4420-be9e-3e8342977027.jpg"  width="30%" height="30%"/>
+
+<img src="https://user-images.githubusercontent.com/79887405/161300142-55fc401e-2254-487d-ac7b-857c7144f249.jpg"  width="30%" height="30%"/>
 
 >다음주 할일
 - 플로우 차트 만들기
@@ -164,15 +170,22 @@
 4. 캘린더에 공부 기록을 올리기 위해 피드용과 캘린더용으로 올리기 버튼을 누른다.
 ```
 2.글쓰기 화면 아이디어 스케치
-![KakaoTalk_20220328_212514185](https://user-images.githubusercontent.com/79887405/160397467-ab1d05bb-422e-4a8c-8e42-e957e484e1a6.jpg)
+
+<img src="https://user-images.githubusercontent.com/79887405/160397467-ab1d05bb-422e-4a8c-8e42-e957e484e1a6.jpg"  width="30%" height="30%"/>
+
 페이지를 추가버튼을 사용하여 페이지를 추가하며 글을 작성할 것인지, 기본 페이지의 수를 정하여 글을 작성할 것인지 고민하였다.
-![KakaoTalk_20220328_212514185_01](https://user-images.githubusercontent.com/79887405/160397476-81880851-80b8-4945-a4b5-135ccd3a3515.jpg)
+
+<img src="https://user-images.githubusercontent.com/79887405/160397476-81880851-80b8-4945-a4b5-135ccd3a3515.jpg"  width="30%" height="30%"/>
+
 글을 작성하면서 필요한 도구들을 어떤 방식으로 보이게 할것인지 고민하였다.
-![KakaoTalk_20220328_212514185_02](https://user-images.githubusercontent.com/79887405/160397480-62d6f462-0f4b-44f8-a155-38b34ca9df88.jpg)
+
+<img src="https://user-images.githubusercontent.com/79887405/160397480-62d6f462-0f4b-44f8-a155-38b34ca9df88.jpg"  width="30%" height="30%"/>
+
 자신이 본 영상의 링크를 올리는 공간을 만들것인지 고민했다.
 
 > 웹화면 만들기
 - 캐치브 앱이 웹으로 만들었을때 어떤 방식으로 보일것인지 만들어 보았다.
- ![KakaoTalk_20220328_213313851](https://user-images.githubusercontent.com/79887405/160398688-fa712cc9-fd23-413c-acc9-c744f27449eb.jpg)
-![KakaoTalk_20220328_213313851_01](https://user-images.githubusercontent.com/79887405/160398695-b269e523-145e-4a12-9923-36a3409f3906.jpg)
 
+<img src="https://user-images.githubusercontent.com/79887405/160398688-fa712cc9-fd23-413c-acc9-c744f27449eb.jpg"  width="30%" height="30%"/>
+
+<img src="https://user-images.githubusercontent.com/79887405/160398695-b269e523-145e-4a12-9923-36a3409f3906.jpg"  width="30%" height="30%"/>
