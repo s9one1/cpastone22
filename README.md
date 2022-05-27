@@ -17,9 +17,9 @@
 - 인터넷에서 판넬 디자인을 참고하여 스케치한다음 포토샵으로 만든다.
 - 내용은 최소한으로 해서 만들었다.(로고, 캐치브와 기능설명, 주요 앱 화면, 팀과 학교로고 등)
 
-<img src="https://user-images.githubusercontent.com/79887405/170741017-3bcd671d-1ee0-4cae-83b7-037106c9fa24.jpg"  width="20%" height="20%"/>
+<img src="https://user-images.githubusercontent.com/79887405/170741017-3bcd671d-1ee0-4cae-83b7-037106c9fa24.jpg"  width="40%" height="40%"/>
 
-<img src="=https://user-images.githubusercontent.com/79887405/170741291-2ca1e75c-3858-4b5c-86fe-f76839e8b390.png"  width="20%" height="20%"/>
+<img src="https://user-images.githubusercontent.com/79887405/170742397-8af2c68d-5371-4216-bde4-1cb24be2e80c.png"  width="40%" height="40%"/>
 
 > ppt 간단하게 만들어보기
 - ppt내용 정하기(로고, 플로우차트, 팀원, 향후과제, 완성화면 등)
