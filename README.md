@@ -37,7 +37,7 @@
 1. 학교에 전시되어 있는 것과 인터넷에서 판넬에 필요한 내용정하기
 2. 자료를 보며 포토샵으로 1차 디자인 만들기
 
-<img src="https://user-images.githubusercontent.com/79887405/169337300-3d270133-2852-41f4-b938-82f44a0d6377.png"  width="228" height="530"/>
+<img src="https://user-images.githubusercontent.com/79887405/169337300-3d270133-2852-41f4-b938-82f44a0d6377.png"  width="30%" height="30%"/>
 
 > 판넬 수정 사항
 - 내용 : 아이콘과 버튼 제거, 캐치브에 대한 질문,내용 변경
@@ -48,14 +48,14 @@
 1. 인터넷에서 다양한 판넬 디자인의 자료를 찾는다.
 2. 판넬 디자인 스케치를 한다.
 
-![판넬스케치](https://user-images.githubusercontent.com/79887405/168300925-303775d2-4280-4eb6-be6f-e490bd8f68df.jpg)
+<img src="https://user-images.githubusercontent.com/79887405/168300925-303775d2-4280-4eb6-be6f-e490bd8f68df.jpg"  width="30%" height="30%"/>
 
 3. 포토샵으로 B4(1032px 729px)크기의 캔버스를 만든 후 스케치한것을 기반으로 판넬을 만들어본다.
 4. 판넬에는 color, naming, font, 디자인 설명, 개요, 스케치, 플로우차트, 로고, app화면 등의 내용을 넣는다.
 
-<img src="https://user-images.githubusercontent.com/79887405/168301615-21f6133f-d00a-4aaf-a946-20d3da4ab9f4.jpg"  width="364.5" height="516"/>
+<img src="https://user-images.githubusercontent.com/79887405/168301615-21f6133f-d00a-4aaf-a946-20d3da4ab9f4.jpg"  width="30%" height="30%"/>
 
-<img src="https://user-images.githubusercontent.com/79887405/168301630-665cd52f-23a5-4883-9174-9a8bd355cfc2.jpg"  width="364.5" height="516"/>
+<img src="https://user-images.githubusercontent.com/79887405/168301630-665cd52f-23a5-4883-9174-9a8bd355cfc2.jpg"  width="30%" height="30%"/>
 
 ## 5월 4일
 > 랜딩페이지 디자인
@@ -65,7 +65,8 @@
 4. flow chart뒤 일러스트 삭제 뒤 플로우차트 확대
 5. 기능 레이아웃 디자인 추가 
 
-![image](https://user-images.githubusercontent.com/79887405/167152340-468ea8d0-4f69-4842-a753-9af941fe78c8.png)
+<img src="https://user-images.githubusercontent.com/79887405/167152340-468ea8d0-4f69-4842-a753-9af941fe78c8.png"  width="30%" height="30%"/>
+
 
 > 다음주 전까지 할일
 1. 카피 부분 추가
@@ -78,21 +79,22 @@
 - 언스플래쉬 이미지 사이트에서 캐치브 네임 관련 이미지 가져오기
 - 앱 화면 가져와서 캐치브에서 중요하게 생각하는 기능에 대해 작성
 
-![dnpqghkas](https://user-images.githubusercontent.com/79887405/165466784-d933dc87-d9e7-4649-9119-a966e392763a.PNG)
+<img src="https://user-images.githubusercontent.com/79887405/165466784-d933dc87-d9e7-4649-9119-a966e392763a.PNG"  width="30%" height="30%"/>
+
+
 
 > 앱 설정 페이지
 - 앱 설정 계정, 알림 페이지 만들기
 - unicons에서 아이콘 다운 받기
 - 당근마켓, 지그재그앱에서 설정 페이지 참고
 
-![doqtjfwjdvpdlwl](https://user-images.githubusercontent.com/79887405/165467847-f07a2cae-c424-422e-b254-95719481ab3a.PNG)
+<img src="https://user-images.githubusercontent.com/79887405/165467847-f07a2cae-c424-422e-b254-95719481ab3a.PNG"  width="30%" height="30%"/>
 
 > 앱 프로필 화면 상세 페이지
 - 기본 프로필 이미지는 랜덤으로 정해짐
  - 사진은 앨범과 기본 이미지 중 선택 가능
 
-![dpqvmfhvlf](https://user-images.githubusercontent.com/79887405/165467909-41c3c5c8-fbfc-47fc-afeb-7e1e91b575c5.PNG)
-
+<img src="https://user-images.githubusercontent.com/79887405/165467909-41c3c5c8-fbfc-47fc-afeb-7e1e91b575c5.PNG"  width="30%" height="30%"/>
 
 ## 4월 13일
 > 마이페이지 화면 수정하기
@@ -100,7 +102,8 @@
 - 설정 화면 바꾸기
 - 마이페이지 목록 썸네일 비율 변경
 - 마이페이지 글씨 크기, 색깔 바꾸기
-![sdlkfj](https://user-images.githubusercontent.com/79887405/163677498-b5bc8d0a-2c4c-41ee-8ec5-5354fcc66b01.png)
+
+<img src="https://user-images.githubusercontent.com/79887405/163677498-b5bc8d0a-2c4c-41ee-8ec5-5354fcc66b01.png"  width="30%" height="30%"/>
 
 > 다음주까지 해야할 일
 - 아이콘 바꾸기(아이콘 굵기 모양 통일)
